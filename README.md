@@ -384,7 +384,7 @@ confidence](.//media/image14.PNG)
     Humidity and Pressure) to the IoT Hub.
 
 13. Copy the code from the file [linked
-    here](https://github.com/mjksinc/AzureIoTLabs_Aus/blob/master/DeviceSimulator_RaspPi%20v2.js)
+    here](https://github.com/Mmodarre/AzureIoTHOL/blob/master/simulator.js)
     and replace the code in the Raspberry Pi Web Simulator.
 
 14. You’ll now need to add in the Device Connection String copied
